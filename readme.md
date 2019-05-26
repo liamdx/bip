@@ -1,6 +1,6 @@
-#bip
+# bip
 
-##bulk image processor 
+## bulk image processor 
 
 converts images in input folder to half-resolution png in output folder.
 
