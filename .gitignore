@@ -13,6 +13,10 @@ __pycache__/
 *.bmp
 *.img
 
+# editor specific
+.vscode/
+
+
 # Distribution / packaging
 .Python
 build/
